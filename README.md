@@ -90,3 +90,17 @@ Not only do I know the development principles, I also have a good understanding 
 (2014) Finalist
 
 * Competed in team to solve challenging programming problems using time and memory-efficient algorithms under limited time through online, regional, national, and Asia regional contest.
+
+## Achievements
+
+### Microsoft Imagine Cup Thailand 2018
+
+(2018) National Finalist
+
+* Worked in team to develop a mobile application that predicted whether a spot on the body has possibility to become cancerous.
+
+### Microsoft Imagine Cup Thailand 2016
+
+(2016) 1st Place Winner in the World Citizenship Category
+
+* Developed a program called DB8 (Debate) to help students to speak in English with confidence through debates.
