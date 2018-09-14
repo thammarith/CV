@@ -76,3 +76,17 @@ Not only do I know the development principles, I also have a good understanding 
 * Collaborated and communicated in English with Twitter employees, other translators, and moderators.
 * Participated in beta testing for Twitter-related products.
 
+## Activities
+
+### Young Webmasters Camp #14
+
+(2016) Participant in the Design Group
+
+* Studied about UX, UI, and how to design for users.
+* Developed a website in a team using design thinking process.
+
+### 2014 ACM-ICPC Asia (Bangkok) Regional Contest
+
+(2014) Finalist
+
+* Competed in team to solve challenging programming problems using time and memory-efficient algorithms under limited time through online, regional, national, and Asia regional contest.
