@@ -1,2 +1,3 @@
-# CV
-This repository maintains my current curriculum vitae and résumé
+# Thammarith Likittheerameth
+
+[LinkedIn](https://linkedin.com/in/Thammarith)
