@@ -73,7 +73,7 @@
 
 ### Mahidol University, Thailand
 
-(2014–2018) **Bachelor of Science in Computer Science (International Programme)** under a scholarship; graduated with First-Class Honours
+**Bachelor of Science in Computer Science (International Programme)** under a scholarship; graduated with First-Class Honours (2014–2018) 
 
 ## Achievements
 
