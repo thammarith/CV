@@ -89,6 +89,6 @@
 
 ### 2014 ACM-ICPC Asia (Bangkok) Regional Contest
 
-### Finalist (2014)
+#### Finalist (2014)
 
 - Competed in team to solve challenging programming problems using time and memory-efficient algorithms under limited time through online, regional, national, and Asia regional contest
