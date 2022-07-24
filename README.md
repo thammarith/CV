@@ -1,30 +1,7 @@
-Thammarith Likittheerameth
+# Thammarith Likittheerameth
 
 > [LinkedIn](https://linkedin.com/in/Thammarith)
 
-- [Skills](#skills)
-	- [Development & Programming](#development--programming)
-	- [Complementary](#complementary)
-	- [Languages](#languages)
-- [Experience](#experience)
-	- [Agoda](#agoda)
-		- [Senior Software Engineer (July 2022–present)](#senior-software-engineer-july-2022present)
-		- [Full-stack Software Engineer (March 2020–June 2022)](#full-stack-software-engineer-march-2020june-2022)
-	- [ViaBus](#viabus)
-		- [Full-stack Engineer (December 2018–March 2020)](#full-stack-engineer-december-2018march-2020)
-	- [Liverpool John Moores University, United Kingdom](#liverpool-john-moores-university-united-kingdom)
-		- [Student Internship (May 2017–August 2017)](#student-internship-may-2017august-2017)
-- [Voluntary Work](#voluntary-work)
-	- [The Thai Astronomical Society](#the-thai-astronomical-society)
-		- [Volunteer (August 2009–Present)](#volunteer-august-2009present)
-	- [TEDxMahidolU](#tedxmahidolu)
-		- [Web Designer & Full-stack Developer (May 2018–December 2018)](#web-designer--full-stack-developer-may-2018december-2018)
-- [Education](#education)
-	- [Mahidol University, Thailand](#mahidol-university-thailand)
-- [Achievements](#achievements)
-	- [Microsoft Imagine Cup Thailand 2018](#microsoft-imagine-cup-thailand-2018)
-	- [Microsoft Imagine Cup Thailand 2016](#microsoft-imagine-cup-thailand-2016)
-	- [2014 ACM-ICPC Asia (Bangkok) Regional Contest](#2014-acm-icpc-asia-bangkok-regional-contest)
 ## Skills
 
 ### Development & Programming
