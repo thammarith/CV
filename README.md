@@ -34,7 +34,7 @@
 
 #### Full-stack Software Engineer (March 2020–June 2022)
 
-- Personalisation: worked in collaboration with the data scientist to use AI & ML models to predict and tailor user experience on the website
+- Personalisation: worked in collaboration with data scientists to use AI & ML models to predict and tailor user experience on the website
 - SEO: developed a new sitemap and indexation system that reduced ~95% the processing time from over 2–3 days down to a few hours
 - YCS: migrated and implemented new features for Agoda's YCS website that hotels use to manage their bookings and other information
 - White-label: white-labelled Agoda's website for its partners to use and implement new features
@@ -73,7 +73,7 @@
 
 ### Mahidol University, Thailand
 
-**Bachelor of Science in Computer Science (International Programme)** under a scholarship; graduated with First-Class Honours (2014–2018) 
+**Bachelor of Science in Computer Science (International Programme)** on a scholarship; graduated with First-Class Honours (2014–2018) 
 
 ## Achievements
 
