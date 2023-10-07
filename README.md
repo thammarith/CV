@@ -20,6 +20,9 @@
 
 - **Thai** (native)
 - **English** (fluent — C2 Proficient)
+  - **IELTS Academic:** 7.5/9
+  - **TOEIC®:** 985/990
+  - **EF SET English Certificate™:** 89/10
 - **German** (basic)
 
 ## Experience
